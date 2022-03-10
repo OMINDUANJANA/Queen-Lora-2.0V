@@ -12,7 +12,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/BlackAlpha2006/Queen-Lora-2.0V.git
+git clone https://github.com/OMINDUANJANA/Queen-Lora-2.0V.git
 cd Queen-Lora-2.0V
 npm install
 npm update
