@@ -2,7 +2,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAlpha2006/Queen-Lora-2.0V.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OMINDUANJANA/Queen-Lora-2.0V.git)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
